@@ -1,4 +1,16 @@
-# Expense Tracker (NestJS & ReactJS)
+DB_HOST='127.0.0.1'
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=admin@123
+DB_DATABASE=moneyTracker
+JWT_SECRET=veaJdUR2V6PrLyDOI5xH7v1lMGfikX3VddQiKOUwdhZ
+JWT_EXPIRATION_TIME=7d
+
+
+
+
+
+<!-- # Expense Tracker (NestJS & ReactJS)
 
 This is expense tracker web application. It is built with NestJS (backend), ReactJS (frontend) and MySQL (database). It had used some popular library like React-Toastify (message alert), dnd-kit (drag and drop), React Query (manage the API calling) and Chart.js.
 
@@ -68,4 +80,4 @@ Please ensure you have installed the following framework or software
 
 ![image](https://github.com/Vincy-Cheng/nestjs-expense-tracker/assets/60846680/2bad23e1-f054-40b9-a081-40ce8943f584)
 
-![image](https://github.com/Vincy-Cheng/nestjs-expense-tracker/assets/60846680/e3b46ab5-8272-4b00-9e8b-e9411ac1688c)
+![image](https://github.com/Vincy-Cheng/nestjs-expense-tracker/assets/60846680/e3b46ab5-8272-4b00-9e8b-e9411ac1688c) -->
